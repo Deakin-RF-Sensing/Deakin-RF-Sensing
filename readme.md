@@ -1,4 +1,4 @@
-# Monitoring Human Pose with Radios: A Correlated Knowledge Distillation Approach 
+# Monitoring Human Pose with Radios: A Correlated Knowledge Fusion Distillation Approach 
 This repository aims use Wifi signals and camera for indoor localization. The camera is mainly used to help the machine learning model to learn how to extract pose coordinates from Wifi Channel State Information Data.
 ## Getting Started
 
