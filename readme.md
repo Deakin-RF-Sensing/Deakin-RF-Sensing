@@ -64,12 +64,12 @@ Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
 
 ## 18 Keypoints Person Pose annotations
-![18keypointsdesc](https://user-images.githubusercontent.com/52904167/220470742-9ae63a54-8ab5-4e0d-8964-31bfa0b37503.png)
+![18keypointsdesc](training_images/Screenshot 2023-05-12 093205.png)
 
 
 ## Network Framework
 
-![WiSPPN System Framework](https://user-images.githubusercontent.com/52904167/220470773-c100fe34-4fcf-4646-b695-413883ab043b.jpeg)
+![CKD System Framework](https://user-images.githubusercontent.com/52904167/220470773-c100fe34-4fcf-4646-b695-413883ab043b.jpeg)
 
 ## A training example image
 ![3-128training_imag](https://user-images.githubusercontent.com/52904167/223571939-424c626c-e975-46f6-96c8-b85bde991c21.jpg)
