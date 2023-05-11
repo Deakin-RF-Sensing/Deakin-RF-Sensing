@@ -1,0 +1,3 @@
+PicoScenes "-i usrp192.168.10.2 --mode logger --freq 5.220e+09 --rx-cbw 20 --rx-channel 0 --rx-ant TX/RX --rx-gain 15 --transfer-type 8"
+
+Run on Dlink
