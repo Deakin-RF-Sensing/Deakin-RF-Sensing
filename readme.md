@@ -2,6 +2,14 @@
 
 # RPI 2022 Monitoring Human Pose with Radios: A Correlated Knowledge Fusion Distillation Approach 
 This project has developed a first aged-care home-ready, RF-based posture tracking system to provide accurate data and analytics without cameras or sensors attached to the human body. It was developed by Deakin researchers led by CITECORE research center.  They have developed a correlated knowledge distillation system for realizing a hybrid RF and camera framework for privacy-preserving human activity detection using software-defined radios. Although monitoring patients is the primary inspiration for this work, the developed system has many potential applications outside of healthcare, including autonomous vehicles, smart agriculture, transportation, and educational environments. This repository aims use WiFi signals and camera for indoor localization. The camera is mainly used to help the machine learning model to learn how to extract pose coordinates from WiFi Channel State Information Data.
+
+## Extracting pose coordinates from video
+
+
+
+https://user-images.githubusercontent.com/52904167/223569808-1e6cac40-7675-4b55-8f96-e04939ab551a.mp4
+
+
 ## Getting Started
 
 
@@ -49,11 +57,7 @@ Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
 ```
 
-## Alphapose extracting pose coordinates from video
 
-
-
-https://user-images.githubusercontent.com/52904167/223569808-1e6cac40-7675-4b55-8f96-e04939ab551a.mp4
 
 
 
