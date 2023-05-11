@@ -1,4 +1,6 @@
-# Monitoring Human Pose with Radios: A Correlated Knowledge Fusion Distillation Approach 
+# CITECORE RPI 2022-23: RF Sensing Postures without Cameras
+
+# RPI 2022 Monitoring Human Pose with Radios: A Correlated Knowledge Fusion Distillation Approach 
 This project has developed a first aged-care home-ready, RF-based posture tracking system to provide accurate data and analytics without cameras or sensors attached to the human body. It was developed by Deakin researchers led by CITECORE research center.  They have developed a correlated knowledge distillation system for realizing a hybrid RF and camera framework for privacy-preserving human activity detection using software-defined radios. Although monitoring patients is the primary inspiration for this work, the developed system has many potential applications outside of healthcare, including autonomous vehicles, smart agriculture, transportation, and educational environments. This repository aims use WiFi signals and camera for indoor localization. The camera is mainly used to help the machine learning model to learn how to extract pose coordinates from WiFi Channel State Information Data.
 ## Getting Started
 
