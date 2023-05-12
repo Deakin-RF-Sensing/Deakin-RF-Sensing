@@ -71,7 +71,7 @@ Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
 ![CKD System Framework](https://user-images.githubusercontent.com/52904167/220470773-c100fe34-4fcf-4646-b695-413883ab043b.jpeg)
 
-![CKD System Framework](./figs/Screenshot 2023-05-12 093247.png)
+![CKD System Framework](https://github.com/Deakin-RF-Sensing/Deakin-RF-Sensing/blob/6eb88c7dbbe2edb6ffeaa23c06516afb9ce886ee/figs/Screenshot%202023-05-12%20093247.png)
 
 ## A training example image
 ![3-128training_imag](https://user-images.githubusercontent.com/52904167/223571939-424c626c-e975-46f6-96c8-b85bde991c21.jpg)
