@@ -42,16 +42,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvi
 To execute Programs:
 
 ```
-# 1. Run WiSPPN_Test_PAM.ipynb on Jupyter Notebooks or other alternative
-This piece of code tests the machine learning model with pre-trained models
-
-# 2. Run WiSPPN_Train_ and_Test_PAM..py as a python file
-This piece of code trains the machine learning model an saves the trained model
-
-# 3. Run capture_cam on Jupyter Notebooks or other alternative
-This piece of code saves a duration of video footage from your webcam with its timestamps for each frame in a Json file
-
-# 4. Go to Alphapose project folder to run it, it will require a different python environment. 
+# 1. Run Python codes
 Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
 
@@ -63,18 +54,19 @@ Alphapose allows us to generate 18-keypoint pose coordinates from our video.
 
 
 
-## 18 Keypoints Person Pose annotations
-![18keypointsdesc](training_images/Screenshot 2023-05-12 093205.png)
-
+## 18 Keypoints Person Pose annotations and GNU
+![18keypointsdesc](https://github.com/Deakin-RF-Sensing/Deakin-RF-Sensing/blob/23039515547f5a0f4bd5f94cde636e376a568123/figs/Screenshot%202023-05-12%20093146.png)
+![GNU](https://github.com/Deakin-RF-Sensing/Deakin-RF-Sensing/blob/23039515547f5a0f4bd5f94cde636e376a568123/figs/Screenshot%202023-05-12%20093122.png)
 
 ## Network Framework
 
-![CKD System Framework](https://user-images.githubusercontent.com/52904167/220470773-c100fe34-4fcf-4646-b695-413883ab043b.jpeg)
+![CKD System Framework](https://github.com/Deakin-RF-Sensing/Deakin-RF-Sensing/blob/23039515547f5a0f4bd5f94cde636e376a568123/figs/Screenshot%202023-05-12%20093205.png)
 
 ![CKD System Framework](https://github.com/Deakin-RF-Sensing/Deakin-RF-Sensing/blob/6eb88c7dbbe2edb6ffeaa23c06516afb9ce886ee/figs/Screenshot%202023-05-12%20093247.png)
 
-## A training example image
+## Example images
 ![3-128training_imag](https://user-images.githubusercontent.com/52904167/223571939-424c626c-e975-46f6-96c8-b85bde991c21.jpg)
+![3-128training_image2](https://github.com/Deakin-RF-Sensing/Deakin-RF-Sensing/blob/23039515547f5a0f4bd5f94cde636e376a568123/figs/Screenshot%202023-05-12%20093053.png)
 
 
 
