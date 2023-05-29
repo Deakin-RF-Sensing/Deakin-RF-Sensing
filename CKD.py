@@ -73,7 +73,7 @@ def ckd_loss(logits_student, logits_teacher, target, alpha, beta, temperature):
         * (temperature**2)
         / target.shape[0]
     )
-    return alpha * tkd_loss + beta * skd_loss
+    return tkd_loss + beta * skd_loss
 
 
 def cat_mask(t, mask1, mask2):
